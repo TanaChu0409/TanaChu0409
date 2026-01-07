@@ -35,7 +35,6 @@
 - MCS 系統修改與維護
 
 ## Featured Projects
->（我會根據你的 GitHub repo 補上：專案簡介、技術、亮點、連結）
 - [BookKeeper](https://github.com/TanaChu0409/book-keeper)：一個簡單的個人記帳後端 API，用於管理收入 (Incomes)、支出 (Expenditures) 與標籤 (Labels)。
 - [GroceryChef](https://github.com/TanaChu0409/grocery-chef)：管理的食譜與採買清單管理系統
 - [EInstallment](https://github.com/TanaChu0409/EInstallment)：A project for tracking all installments on credit cards
