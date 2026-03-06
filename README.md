@@ -19,7 +19,7 @@
 - **Others**：GitHub Copilot, Code Review, SonarQube
 
 ## Experience
-### 一卡通票證股份有限公司｜專案工程師（2025/02 – Present）
+### 一卡通票證股份有限公司｜專案工程師（2025/02 – 2026/02）
 - 使用 .NET Core / .NET Framework 開發後端 API
 - 參與電子支付與生活繳費等服務功能開發與整合
 - 與前端/PM 協作設計 RESTful API 與交付節點
